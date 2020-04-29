@@ -18,6 +18,11 @@ Lab protocols
     - do the stuff! edit, add files, delete files, ... the normal stuff
     - make sure to add and commit changes and push them to your forked repo
 - merge your changed repo with the original eiselab/wetlab repo 
-    - on github, make a pull request. 
+    - on github, make a pull request - 
+        - go into the forked repo
+        - click pull request (underneath the clone/download green button)
+        - then click the "create pull request" green button
+        - Write a little message about what you changed! 
+    - Eisen lab members who are owners of the Repo approve changes.
 
 
