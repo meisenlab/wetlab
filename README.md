@@ -25,4 +25,7 @@ Lab protocols
         - Write a little message about what you changed! 
     - Eisen lab members who are owners of the Repo approve changes.
 
+## Managing the protocols repo
+- Projects tab has a "adding protocols" project where pull requests and todo lists can be made and moved along! 
+
 
