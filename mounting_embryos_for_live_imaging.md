@@ -1,27 +1,23 @@
-##Title: Mounting Embryos for Live Imaging
-----
-**Author: Colleen Hannon**
-
-**Date: 5/4/2020**
-
-##Introduction
+## Title: Mounting Embryos for Live Imaging
+#### Author: Colleen Hannon
+#### Date: 5/4/2020
+## ntroduction:
 This protocol is intended for mounting small numbers living embryos from small collection cages with apple juice agar plates.
 
-##Materials: 
+## Materials: 
 
-* Embryo collection cages
-* 60 mm apple juice agar plates
-* Forceps
-* Halocarbon 27 oil
-* Plastic imgaging slide with removable mounting bracket
-* Gas permeable membrane 
-* Paper towels
-* Bleach squirt bottle
-* Water squirt bottle
+- Embryo collection cages
+- 60 mm apple juice agar plates
+- Forceps
+- Halocarbon 27 oil
+- Plastic imaging slide with removable mounting bracket
+- Gas permeable membrane 
+- Paper towels
+- Bleach squirt bottle
+- Water squirt bottle
 
-##Procedure:
-
-###Stage and Collect Embryos
+## Procedure:
+### Stage and Collect Embryos
 1. Remove apple juice plate from embryo collection cage after the desired time.
 2. Coat apple juice agar in Halocarbon 27 oil.
 3. Observe the plate on a dissecting microscope that is capable of using transmitted light (I use the Leica next to the confocal).
@@ -30,7 +26,7 @@ This protocol is intended for mounting small numbers living embryos from small c
   * It’s easiest to gather the embryos on one prong of your forceps as you pick them up, until you have a suitable amount (10-20).
   * The apple juice agar and transmitted light are important here, because you can image through the clear agar and stage the embryos as you collect them. This doesn’t work nearly as well with grape juice agar, because the plates are too dark.
 
-###Dechorionate
+### Dechorionate
 1. Prepare two small (~½ inch square) pieces of paper towel.
 2. Move your embryos to one of the paper towel squares and gently touch the prong of your forceps with the embryos to the paper towel and let the oil absorb into the paper towel square.
 3. Once most of the oil has been sufficiently removed, transfer the ball of embryos to the second clean paper towel square and gently scrape the forceps against the towel to release the embryos.
@@ -48,7 +44,7 @@ This protocol is intended for mounting small numbers living embryos from small c
 10. Repeat steps 8 and 9 until the bleach has been removed. 
   * If there is still remaining bleach, the clean paper towel will turn pink when you dab off the excess water.
 
-###Mount
+### Mount
 1. Secure gas permeable membrane between the two pieces of a plastic slide, with the hydrophobic side of the membrane on the flat surface of the slide. Remove excess membrane with a razor blade.
   * The gas permeable membrane has a hydrophobic side and a hydrophilic side. To make sure you’re mounting the embryos on the correct side, use a Sharpie to draw a mark on the membrane. If it’s on the hydrophobic side, the ink will bead up. If it’s on the hydrophilic side, it will not.
 2. Place a droplet of halocarbon oil on the gas permeable membrane in the middle of the slide.
