@@ -1,10 +1,28 @@
-##Mounting Embryos for Live Imaging
+##Title: Mounting Embryos for Live Imaging
+----
+**Author: Colleen Hannon**
 
-###Purpose:
+**Date: 5/4/2020**
+
+##Introduction
 This protocol is intended for mounting small numbers living embryos from small collection cages with apple juice agar plates.
 
+##Materials: 
+
+* Embryo collection cages
+* 60 mm apple juice agar plates
+* Forceps
+* Halocarbon 27 oil
+* Plastic imgaging slide with removable mounting bracket
+* Gas permeable membrane 
+* Paper towels
+* Bleach squirt bottle
+* Water squirt bottle
+
+##Procedure:
+
 ###Stage and Collect Embryos
-1.	Remove apple juice plate from embryo collection cage after the desired time.
+1. Remove apple juice plate from embryo collection cage after the desired time.
 2. Coat apple juice agar in Halocarbon 27 oil.
 3. Observe the plate on a dissecting microscope that is capable of using transmitted light (I use the Leica next to the confocal).
 4. Using forceps, pick up individual embryos of the desired stage (e.g., NC14).
@@ -32,7 +50,7 @@ This protocol is intended for mounting small numbers living embryos from small c
 
 ###Mount
 1. Secure gas permeable membrane between the two pieces of a plastic slide, with the hydrophobic side of the membrane on the flat surface of the slide. Remove excess membrane with a razor blade.
-  *The gas permeable membrane has a hydrophobic side and a hydrophilic side. To make sure you’re mounting the embryos on the correct side, use a Sharpie to draw a mark on the membrane. If it’s on the hydrophobic side, the ink will bead up. If it’s on the hydrophilic side, it will not.
+  * The gas permeable membrane has a hydrophobic side and a hydrophilic side. To make sure you’re mounting the embryos on the correct side, use a Sharpie to draw a mark on the membrane. If it’s on the hydrophobic side, the ink will bead up. If it’s on the hydrophilic side, it will not.
 2. Place a droplet of halocarbon oil on the gas permeable membrane in the middle of the slide.
 3. Gently pick up your dechorionated embryos from the paper towel square and transfer them into the droplet of oil.
   * I like to do this with a hair loop instead of the forceps, because the dechorionated embryos are very fragile and easy to squish.
