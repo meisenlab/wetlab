@@ -1,7 +1,7 @@
 ## Title: Mounting Embryos for Live Imaging
 #### Author: Colleen Hannon
 #### Date: 5/4/2020
-## ntroduction:
+## Introduction:
 This protocol is intended for mounting small numbers living embryos from small collection cages with apple juice agar plates.
 
 ## Materials: 
