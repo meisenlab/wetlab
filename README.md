@@ -9,7 +9,13 @@ Lab protocols
     - type "wget" followed by the URL of the protocol
     - example: `wget https://github.com/meisenlab/wetlab/blob/master/testprotocol.md`
 * To quickly print a markdown file (or save it as a PDF):
-    - use a chrome extension (I like [this one](https://chrome.google.com/webstore/detail/github-markdown-printer/fehpdlpmcegfpbkgcnaleindodeegapk/related?hl=en-US))  
+    - use a chrome extension (I like [this one](https://chrome.google.com/webstore/detail/github-markdown-printer/fehpdlpmcegfpbkgcnaleindodeegapk/related?hl=en-US)) 
+
+## Standardized File names
+- Please name all files with no spaces
+- underscores can be substituted
+- with a four word max description of the protocol
+- no capitals 
 
 ## To contribute to the protocols repo: 
 - fork the repo to your github account (fork button at the to right)
